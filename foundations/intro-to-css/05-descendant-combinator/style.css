@@ -1,0 +1,12 @@
+.container .text{
+    /* I add .text because if I would have anything else in container it would format all. 
+    Even though I'm lazy and I know I won't add anything to the container... */
+    color: red;
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* div p
+div .text
+.container p */
